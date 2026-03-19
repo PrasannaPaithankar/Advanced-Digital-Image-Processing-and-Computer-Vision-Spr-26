@@ -5,6 +5,7 @@
 
 ### 📚 Assignments
 1. 📃 Assignment 1: [Feature Extraction and Deep Learning for Images](assignment_1/)
+2. 📃 Assignment 2: [GAN and Diffusion Model](assignment_2/)
 
 <br />
 
