@@ -1,0 +1,6 @@
+*
+!.gitignore
+!train_output.avi
+!test_output.avi
+!*.ipynb
+!*.pdf
